@@ -1,0 +1,8 @@
+ROOM OPTIONS
+Please select one of the following options:
+Describe Room
+Move Rooms
+Inspect Items in Room
+Inspect Player Inventory
+Drop Inventory Item
+Check Time

@@ -1,0 +1,5 @@
+MENU OPTIONS
+Please select one of the following options:
+Instructions
+Play
+Exit
